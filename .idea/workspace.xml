@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c404d66b-5fed-4eec-bbc2-890cda66185f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Opposite number.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -38,22 +39,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Convert boolean values to strings 'Yes' or 'No'.js">
+  <component name="RunManager" selected="Node.js.Opposite number.js">
     <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true">
       <method v="2" />
     </configuration>
     <configuration name="Convert boolean values to strings 'Yes' or 'No'.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Convert boolean values to strings 'Yes' or 'No'.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="Opposite number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Opposite number.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.Unnamed" />
       <item itemvalue="Node.js.Convert boolean values to strings 'Yes' or 'No'.js" />
+      <item itemvalue="Node.js.Opposite number.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Opposite number.js" />
         <item itemvalue="Node.js.Convert boolean values to strings 'Yes' or 'No'.js" />
       </list>
     </recent_temporary>
@@ -68,7 +74,7 @@
       <updated>1635117002033</updated>
       <workItem from="1635117003741" duration="22000" />
       <workItem from="1635117034747" duration="609000" />
-      <workItem from="1635117877596" duration="1107000" />
+      <workItem from="1635117877596" duration="1717000" />
     </task>
     <servers />
   </component>
