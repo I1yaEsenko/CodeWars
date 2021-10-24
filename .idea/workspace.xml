@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c404d66b-5fed-4eec-bbc2-890cda66185f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
       <updated>1635117002033</updated>
       <workItem from="1635117003741" duration="22000" />
       <workItem from="1635117034747" duration="609000" />
+      <workItem from="1635117877596" duration="48000" />
     </task>
     <servers />
   </component>
