@@ -7,3 +7,4 @@ Opposite number :white_check_mark: <br>
 Convert number to reversed array of digits :white_check_mark: <br>
 Growth of a Population :white_check_mark: <br>
 Convert a Number to a String! :white_check_mark: <br>
+Remove First and Last Character :white_check_mark: <br>
