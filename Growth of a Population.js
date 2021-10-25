@@ -1,12 +1,12 @@
 //Growth of a Population
-
 function nbYear(p0, percent, aug, p) {
-    // your code
-    let n = 0;
-    for (n; p0 <= p; n++ )
-        p0 = p0 * (1 + percent / 100 ) + aug;
-    return n;
-
+    let currentPop = p0;
+    let years = 0;
+    while (currentPop < p) {
+        years++;
+        currentPop = currentPop + (currentPop * (percent / 100) + aug);
+    }
+    return years;
 }
 
 //Test
