@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c404d66b-5fed-4eec-bbc2-890cda66185f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sum of all the multiples of 3 or 5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Odd or Even.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -76,7 +76,7 @@
       <workItem from="1635117034747" duration="609000" />
       <workItem from="1635117877596" duration="5753000" />
       <workItem from="1635363975833" duration="24000" />
-      <workItem from="1635586040503" duration="4669000" />
+      <workItem from="1635586040503" duration="5329000" />
     </task>
     <servers />
   </component>
