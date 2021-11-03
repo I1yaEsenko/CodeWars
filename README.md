@@ -13,3 +13,4 @@ Count the divisors of a number :white_check_mark: <br>
 7 kyu Sum of all the multiples of 3 or 5 :white_check_mark: <br>
 7 kyu Odd or Even? :white_check_mark: <br>
 7 kyu Reverse words. :white_check_mark: <br>
+7 kyu Factorial :white_check_mark: <br>
