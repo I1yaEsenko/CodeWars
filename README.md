@@ -16,3 +16,4 @@ Count the divisors of a number :white_check_mark: <br>
 7 kyu Factorial :white_check_mark: <br>
 7 kyu Remove anchor from URL :white_check_mark: <br>
 6 kyu Unique In Order :white_check_mark: <br>
+6 kyu Count characters in your string :white_check_mark: <br>
