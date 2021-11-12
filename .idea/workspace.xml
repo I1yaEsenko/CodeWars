@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c404d66b-5fed-4eec-bbc2-890cda66185f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Make a function that does arithmetic!.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Small enough - Beginner.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Make a function that does arithmetic!.js" beforeDir="false" afterPath="$PROJECT_DIR$/Make a function that does arithmetic!.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,8 @@
       <workItem from="1635883880068" duration="1732000" />
       <workItem from="1635965007876" duration="860000" />
       <workItem from="1636396089840" duration="1618000" />
-      <workItem from="1636656250661" duration="473000" />
+      <workItem from="1636656250661" duration="1083000" />
+      <workItem from="1636734267105" duration="728000" />
     </task>
     <servers />
   </component>
