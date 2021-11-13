@@ -20,3 +20,4 @@ Count the divisors of a number :white_check_mark: <br>
 7 kyu Make a function that does arithmetic! :white_check_mark: <br>
 7 kyu Small enough? - Beginner :white_check_mark: <br>
 7 kyu Sorted? yes? no? how? :white_check_mark: <br>
+7 kyu No oddities here :white_check_mark: <br>
