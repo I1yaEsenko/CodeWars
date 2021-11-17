@@ -21,4 +21,6 @@ Count the divisors of a number :white_check_mark: <br>
 7 kyu Small enough? - Beginner :white_check_mark: <br>
 7 kyu Sorted? yes? no? how? :white_check_mark: <br>
 7 kyu No oddities here :white_check_mark: <br>
-6 kyu Build Tower :white_check_mark: <br> 
+6 kyu Build Tower :white_check_mark: <br>
+4 kyu Multiplying numbers as strings :white_check_mark: <br>
+6 kyu Kebabize :white_check_mark: <br>
