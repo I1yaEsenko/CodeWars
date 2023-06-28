@@ -6,12 +6,16 @@
 </head>
 <body>
 <script>
-
-    function peopleWithAgeDrink(old) {
-        return old < 14 ? "drink toddy" : old <18 ?"drink coke" :
-            old < 21 ? "drink beer" : "drink whisky" ;
-    };
-
+    function dominator(arr) {
+        //code mel
+        let result = 0
+        for (let i = 0; i <= arr.length; i++) {
+            if (arr[i] === arr[i + 1]) {
+               result = i + 1
+            }
+        } return result
+    }
+    console.log(dominator([1,1,1,1,1,2]))
 </script>
 </body>
 </html>
